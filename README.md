@@ -1,5 +1,9 @@
 # VayamAI - Freelancing x Web3 x Ai Community
 
+## Demo video link
+
+https://www.youtube.com/watch?v=X5Jg5zzH60c
+
 ## Contract deployed on Linea(Infura)
 
 Deployed at 0xAfC45Ef7d4BA01c531E3F26676832B81dD77bD4B
